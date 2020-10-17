@@ -1,7 +1,7 @@
 package org.dkit.oop;
 
 /**
- * Hello world!
+ * Project-X - Simple project to test out VCS
  *
  */
 public class App 
